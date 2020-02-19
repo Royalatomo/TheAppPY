@@ -13,3 +13,11 @@ This App Is created By BIngo ANd All Rights Are reserved for this 'TheApp' Progr
       │ ▌ ▌▞▀▌▌ ▖▛▚ ▐ ▌ ▌▌ ▌    ▐▐▐ ▐ ▐ ▖▌ ▌    ▌ ▌▐ ▌▝▌▌ ▌▌ ▌ ▝ │
       │ ▘ ▘▝▀▘▝▀ ▘ ▘▀▘▘ ▘▝▀      ▘▘ ▀▘ ▀ ▘ ▘    ▀▀ ▀▘▘ ▘▝▀ ▝▀  ▝ │
       └──────────────────────────────────────────────────────────┘
+# Commands to exicute in you terminal ...
+# !) 'git clone https://github.com/Royalatomo/TheApp.git'
+# !) 'cd TheApp'
+# !) 'chmod 777 name.py ifs.py Main.py Test.py'  or give These file exicutable permision 
+# !) 'python3 Main.py'
+# !) 'Set You configration'
+
+file:///root/Documents/Screenshot%202020-02-18%2020:39:29.png
