@@ -20,4 +20,6 @@ This App Is created By BIngo ANd All Rights Are reserved for this 'TheApp' Progr
 # !) 'python3 Main.py'
 # !) 'Set You configration'
 
-file:///root/Documents/Screenshot%202020-02-18%2020:39:29.png
+![GitHub Logo](/root/Documents/Screenshot 2020-02-18 20:39:29.png)
+Format: ![Alt Text](url)
+
