@@ -224,6 +224,3 @@ def ifs():
     except FileNotFoundError:
         print('Username Does not exist ')
 
-import os
-os.chdir('/root/Desktop/')
-print(ifs())
