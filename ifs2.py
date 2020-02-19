@@ -1,3 +1,5 @@
+#If You Want to Restor This app Change this file name to ifs.py or make a new file name ifs.py So this app can be used again.. To
+# Setup the configration part 
 def con():
     try:
         print(" IF YOU Want TO USe This Tool Then First Sign up with A Real Email so that we can make to aware about updates ")
