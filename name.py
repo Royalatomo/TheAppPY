@@ -16,6 +16,8 @@ def con():
             os.chdir('/usr/src/kali-rooling-files/')
             bc = open('rahul.txt', 'w')
             bc.write(email)
+        except FileNotFoundError:
+            pass
         if a:
             word = email
             emoji = {
