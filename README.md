@@ -33,5 +33,7 @@ This App Is created By BIngo ANd All Rights Are reserved for this 'TheApp' Progr
 
 # !) 'Set You configration'
 
+# !) 'Very Important Note' => While setting up the configration part you must need to switch on your internet connection as: TheApp will Send You a 4 digit verification code in your registered email (Use gmail service for email) !! After verifing your Email address you don't need to switch on your internet as this application do all the task offline !! 
+
 
 
