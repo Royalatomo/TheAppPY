@@ -182,7 +182,7 @@ try:
 
                 print('Start This Programme again!! ')
 
-                os.remove(where + '/TheApp/name.py')
+                os.remove(where + '/TheAppPY/name.py')
 
     except FileNotFoundError:
 
@@ -579,4 +579,3 @@ except ModuleNotFoundError:
             exit()
 
 # Thank You ::
-
